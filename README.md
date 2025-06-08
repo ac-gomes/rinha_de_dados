@@ -83,7 +83,7 @@ price
 
 ---
 
-## 🛠️ Ferramentas Livres, cabe a você coloca-las em seus
+## 🛠️ Ferramentas Livres, cabe a você encaixá-las em seu projeto
 
 Kafka, Spark Structured Streaming, Delta Lake, Airbyte, Nifi,
 Spark, dbt, Flink, Python, Flink, Apache Iceberg, Postgres,
