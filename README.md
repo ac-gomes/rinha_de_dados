@@ -86,12 +86,12 @@ price
 ## 🛠️ Ferramentas Livres, cabe a você encaixá-las em seu projeto
 
 Kafka, Spark Structured Streaming, Delta Lake, Airbyte, Nifi,
-Spark, dbt, Flink, Python, Flink, Apache Iceberg, Postgres,
+Spark, dbt, Flink, Python, Apache Iceberg, Postgres, Stream Analytics,
 DuckDB, BigQuery, Redshift, Athena, Synapse Analytics, Dataform,
-Trino, Superset, Metabase, DuckDB, Notebooks, Airflow, S3,
-Glue, Step Functions, Azure Data Factory, Synapse Pipelines,
+Trino, Superset, Metabase, Notebooks, Airflow, S3,
+Step Functions, Azure Data Factory, Synapse Pipelines,
 MinIO, Docker, Pub/Sub, Dataflow, Kinesis, Lambda, Event Hubs,
-Stream Analytics, Glue Catalog, Hive.
+Glue Catalog, Hive.
 
 ---
 
