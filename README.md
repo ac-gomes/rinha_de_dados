@@ -113,3 +113,7 @@ Glue Catalog, Hive.
 Vamos ver quem constrói o pipeline mais inteligente, performático e elegante. 🚀🚀
 
 **Boa sorte, e que vença o melhor pipeline!**
+
+Nota: Não existe nem um tipo de premiação envolvido neste desafio. E você não é obrigado(a) a participar de nem uma forma. No fim você ganha apenas a experiencia e a satisfação de ser capaz. Irei apresentar uma abordagem no meu canal do Youtube, sendo assim, não me comprometo a 'corrigir' de forma obrigatória as soluções apresentadas.
+
+
